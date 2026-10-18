@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/components/decisionenginecard.tsx","./src/components/freightpoolercard.tsx","./src/components/marketsentimentcard.tsx","./src/components/modals.tsx","./src/components/navbar.tsx","./src/components/supplychainmap.tsx"],"version":"5.9.3"}
